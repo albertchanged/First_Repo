@@ -1,3 +1,3 @@
 # First_Repo
-I'm cute!
+What a groundbreaking event!
 My first repository on GitHub!
